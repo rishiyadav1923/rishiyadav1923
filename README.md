@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishiyadav1923&" alt="rishiyadav1923" /></p>
 
-<p><img align = "center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"></p>
+<p><img align = "center" src="https://github-profile-trophy.vercel.app/?username=rishiyadav1923&row=2&column=3&theme=flat"></p>
